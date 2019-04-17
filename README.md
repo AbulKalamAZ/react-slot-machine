@@ -1,4 +1,4 @@
-# When You Move Technical Exercise
+# AuraSide Technical Exercise
 
 ## We are looking to determine how you approach creating a coded solution from scratch. Please treat this as if you are creating production ready code. We expect this to reflect how you would deliver to a client, so take that into account when creating your solution.
 
@@ -13,8 +13,8 @@ The player spins the wheels by clicking on a button labelled "PLAY". On playing 
 
 # Setup
 
-1. Clone the repo
-2. npm install
-3. npm run start
+1.  Clone the repo
+2.  npm install
+3.  npm run start
 
 Once complete, make a pull request from your fork to allow us to review your solution.
